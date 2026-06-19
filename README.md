@@ -35,7 +35,7 @@ I am focused on understanding software architecture from high-level design down 
 
 
 
-### Technical Arsenal
+
 
 ### Technical Arsenal
 
