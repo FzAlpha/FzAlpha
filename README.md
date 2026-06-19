@@ -75,6 +75,8 @@ I am focused on understanding software architecture from high-level design down 
 
 ---
 
+![snake gif](https://github.com/FzAlpha/FzAlpha/blob/output/github-snake-dark.svg)
+
 ### Connectivity
 
 <p align="left">
