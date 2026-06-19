@@ -1,12 +1,11 @@
 
 
 <a href="https://github.com/FzAlpha">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=55&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Hritabrata+Bardhan&repeat=false" alt="Hritabrata Bardhan" />
+  <img src="signature.svg" alt="Hritabrata Bardhan" />
 </a>
 
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Low-Level+Systems+Developer;C%2B%2B+and+Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Low-Level+Systems+Developer;C%2B%2B+and+Linux+Enthusiast" alt="Typing SVG" />
 </a>
 
 ---

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&amp;display=swap');
+      
+      .signature {
+        font-family: 'Great Vibes', cursive;
+        font-size: 75px;
+        fill: #58A6FF; /* GitHub Blue */
+      }
+
+      /* The mask that sweeps across, acting like ink flowing */
+      #reveal-mask rect {
+        width: 0;
+        /* Slowed down to 5 seconds with a smooth start and stop */
+        animation: reveal 5s ease-in-out forwards;
+      }
+
+      @keyframes reveal {
+        0% { width: 0; }
+        100% { width: 100%; }
+      }
+    </style>
+    
+    <mask id="reveal-mask">
+      <rect x="0" y="0" height="120" fill="white" />
+    </mask>
+  </defs>
+  
+  <!-- Solid text being revealed left-to-right -->
+  <text x="10" y="85" class="signature" mask="url(#reveal-mask)">Hritabrata Bardhan</text>
+</svg>
