@@ -37,33 +37,49 @@ I am focused on understanding software architecture from high-level design down 
 
 ### Technical Arsenal
 
-**Core Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-<!-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Technical Arsenal
 
-**Systems & Environment**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=flat-square&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00A86B?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+<table>
+  <tbody>
+    <tr>
+      <td align="left" valign="middle" width="220">
+        <b>Core Languages</b>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=flat&logo=c&logoColor=black" alt="C">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle" width="220">
+        <b>Systems & Environment</b>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+        <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" alt="Fedora">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/Hyprland-00A69C?style=flat&logo=hyprland&logoColor=white" alt="Hyprland">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Architecture & Competencies**
-![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-2b3137?style=flat-square)
-![System Internals](https://img.shields.io/badge/System_Internals-2b3137?style=flat-square)
-![Local AI Integration](https://img.shields.io/badge/Local_AI_Integration-2b3137?style=flat-square)
-![Automation & Scripting](https://img.shields.io/badge/Automation_&_Scripting-2b3137?style=flat-square)
+### Architecture & Competencies
+<img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-333333?style=flat" alt="Algorithms & Data Structures"> 
+<img src="https://img.shields.io/badge/System_Internals-333333?style=flat" alt="System Internals"> 
+<img src="https://img.shields.io/badge/Local_AI_Integration-333333?style=flat" alt="Local AI Integration"> 
+<img src="https://img.shields.io/badge/Automation_%26_Scripting-333333?style=flat" alt="Automation & Scripting">
 ---
 
 ### Metrics & Activity Dashboard
