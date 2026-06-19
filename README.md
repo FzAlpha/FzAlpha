@@ -125,4 +125,7 @@ I am focused on understanding software architecture from high-level design down 
   <a href="mailto:hritabratabardhan13579@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://discord.com/" target="_blank" title="Discord ID: fz_alpha_1">
+    <img src="https://img.shields.io/badge/Discord-fz__alpha__1-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
