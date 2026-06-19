@@ -31,19 +31,35 @@ I am focused on understanding software architecture from high-level design down 
 
 ### Technical Arsenal
 
-**Languages**
+### Technical Arsenal
+
+**Core Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<!-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Environment & Tooling**
+**Systems & Environment**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=flat-square&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00A86B?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
+**Architecture & Competencies**
+![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-2b3137?style=flat-square)
+![System Internals](https://img.shields.io/badge/System_Internals-2b3137?style=flat-square)
+![Local AI Integration](https://img.shields.io/badge/Local_AI_Integration-2b3137?style=flat-square)
+![Automation & Scripting](https://img.shields.io/badge/Automation_&_Scripting-2b3137?style=flat-square)
 ---
 
 ### Metrics & Activity Dashboard
