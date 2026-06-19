@@ -1,5 +1,5 @@
 <a href="https://github.com/FzAlpha">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Hritabrata+Bardhan" alt="Hritabrata Bardhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=55&pause=1000&color=58A6FF&center=false&vCenter=true&width=800&lines=Hritabrata+Bardhan&repeat=false" alt="Hritabrata Bardhan" />
 </a>
 
 <a href="https://git.io/typing-svg">
