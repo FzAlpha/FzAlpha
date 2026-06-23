@@ -11,13 +11,12 @@
 ---
 
 
-### About Me
+### 👨‍💻 About Me
 
-* I am a Computer Science engineering student with a deep focus on *Data Structures, Algorithms, and System Architecture*.
-* I treat my operating system as a canvas. I run highly customized Linux environments (Arch & Fedora) and enjoy diving deep into Wayland compositors, process management, and writing custom Lua/Bash scripts to bend the OS to my will. I don't just use tools; I debug the underlying system daemons when they break. 
-* When I'm not grinding LeetCode in C++ and Java, I'm orchestrating multi-agent AI workflows, self-hosting automation platforms, or exploring the fundamentals of full-stack development and cybersecurity.
-
----
+* I am a Computer Science engineering student focusing on **Data Structures, Algorithms, and System Architecture**.
+* I prefer working within Linux environments (Arch, ubuntu & Endavour) and enjoy customizing my developer workflow using tools like Hyprland, Lua, and Bash. For me, configuring and maintaining my own system is just a hands-on way to learn how operating systems actually work under the hood.
+* Alongside practicing C++ , Java and Python , I enjoy building practical projects. Recently, I've been exploring multi-agent AI workflows, self-hosting automation platforms, full-stack web development and App development.
+*
 
 ### Featured Architecture & Projects
 
