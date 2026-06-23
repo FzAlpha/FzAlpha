@@ -11,12 +11,11 @@
 ---
 
 
-### About
-I am focused on understanding software architecture from high-level design down to low-level system internals. My primary interests lie in optimization, clean code principles, and engineering efficient development environments.
+### About Me
 
-*   **Current Focus:** Algorithmic efficiency, data structures, and developing low-level system utilities.
-*   **Operating System:** Customized Linux environments optimized for deep work and systems programming.
-*   **Interests:** Competitive programming, systems architecture, and terminal workflow optimization.
+* I am a Computer Science engineering student with a deep focus on *Data Structures, Algorithms, and System Architecture*.
+* I treat my operating system as a canvas. I run highly customized Linux environments (Arch & Fedora) and enjoy diving deep into Wayland compositors, process management, and writing custom Lua/Bash scripts to bend the OS to my will. I don't just use tools; I debug the underlying system daemons when they break. 
+* When I'm not grinding LeetCode in C++ and Java, I'm orchestrating multi-agent AI workflows, self-hosting automation platforms, or exploring the fundamentals of full-stack development and cybersecurity.
 
 ---
 
@@ -50,6 +49,7 @@ I am focused on understanding software architecture from high-level design down 
         <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=flat&logo=c&logoColor=black" alt="C">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua">
         <img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
@@ -61,8 +61,8 @@ I am focused on understanding software architecture from high-level design down 
       </td>
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
         <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" alt="Fedora">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
         <img src="https://img.shields.io/badge/Hyprland-00A69C?style=flat&logo=hyprland&logoColor=white" alt="Hyprland">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
@@ -77,8 +77,10 @@ I am focused on understanding software architecture from high-level design down 
 
 ### Architecture & Competencies
 <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-333333?style=flat" alt="Algorithms & Data Structures"> 
-<img src="https://img.shields.io/badge/System_Internals-333333?style=flat" alt="System Internals"> 
-<img src="https://img.shields.io/badge/Local_AI_Integration-333333?style=flat" alt="Local AI Integration"> 
+<img src="https://img.shields.io/badge/System_Internals_%26_Diagnostics-333333?style=flat" alt="System Internals & Diagnostics"> 
+<!-- <img src="https://img.shields.io/badge/Tabular_%26_Token_Design-333333?style=flat" alt="Tabular & Token Design"> -->
+<img src="https://img.shields.io/badge/Multi--Agent_AI_Orchestration-333333?style=flat" alt="Multi-Agent AI Orchestration"> 
+<img src="https://img.shields.io/badge/Process_%26_Daemon_Management-333333?style=flat" alt="Process & Daemon Management">
 <img src="https://img.shields.io/badge/Automation_%26_Scripting-333333?style=flat" alt="Automation & Scripting">
 ---
 
