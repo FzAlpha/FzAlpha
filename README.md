@@ -21,10 +21,10 @@
 ### Featured Architecture & Projects
 
 <p align="center">
-  <a href="https://github.com/FzAlpha/log-Manager">
+  <a href="https://github.com/FzAlpha/log-Manager.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=log-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&v=1" width="48%" />
   </a>
-  <a href="https://github.com/FzAlpha/custom-linux-shell">
+  <a href="https://github.com/FzAlpha/custom-linux-shell.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&v=1" width="48%" />
   </a>
 </p>
@@ -91,25 +91,24 @@
   </a>
 </p>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=FzAlpha&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165px"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=FzAlpha&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
     </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://leetcard.jacoblin.cool/Fz_Alpha_07?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="165px"/>
+    <td align="center" valign="top">
+      <img src="https://leetcard.jacoblin.cool/Fz_Alpha_07?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="165" />
     </td>
   </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FzAlpha&theme=github_dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165px" />
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FzAlpha&theme=github_dark&hide_border=true" alt="GitHub Streak" height="165" />
     </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzAlpha&layout=compact&theme=github_dark&langs_count=6&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165px"/>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzAlpha&layout=compact&theme=github_dark&langs_count=6&hide_border=true" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
-
 ---
 
 ![snake gif](https://github.com/FzAlpha/FzAlpha/blob/output/github-snake-dark.svg)
