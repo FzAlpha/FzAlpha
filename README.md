@@ -21,14 +21,13 @@
 ### Featured Architecture & Projects
 
 <p align="center">
-  <a href="https://github.com/FzAlpha/log-Manager.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=log-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&v=1" width="48%" />
+  <a href="https://github.com/FzAlpha/log-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=log-Manager&theme=tokyonight&v=1" alt="Project 1" />
   </a>
-  <a href="https://github.com/FzAlpha/custom-linux-shell.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&v=1" width="48%" />
+  <a href="https://github.com/FzAlpha/custom-linux-shell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=tokyonight&v=1" alt="Project 2" />
   </a>
 </p>
-
 ---
 
 
