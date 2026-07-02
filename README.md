@@ -105,7 +105,7 @@
     </td>
   </tr>
 </table>
-![snake gif](https://github.com/FzAlpha/FzAlpha/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/FzAlpha/FzAlpha/output/github-snake-dark.svg)
 
 ### Connectivity
 
