@@ -22,17 +22,14 @@
 
 <p align="center">
   <a href="https://github.com/FzAlpha/log-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=log-Manager&theme=tokyonight&v=1" alt="Project 1" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=log-Manager&theme=tokyonight" alt="Project 1" />
   </a>
   <a href="https://github.com/FzAlpha/custom-linux-shell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=tokyonight&v=1" alt="Project 2" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=tokyonight" alt="Project 1" />
   </a>
 </p>
+
 ---
-
-
-
-
 
 ### Technical Arsenal
 
@@ -93,7 +90,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=FzAlpha&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
+      <img src="https://github-readme-stats.shion.dev/api?username=FzAlpha&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
     </td>
     <td align="center" valign="top">
       <img src="https://leetcard.jacoblin.cool/Fz_Alpha_07?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="165" />
@@ -104,12 +101,10 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FzAlpha&theme=github_dark&hide_border=true" alt="GitHub Streak" height="165" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzAlpha&layout=compact&theme=github_dark&langs_count=6&hide_border=true" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FzAlpha&layout=compact&theme=github_dark&langs_count=6&hide_border=true" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
----
-
 ![snake gif](https://github.com/FzAlpha/FzAlpha/blob/output/github-snake-dark.svg)
 
 ### Connectivity
