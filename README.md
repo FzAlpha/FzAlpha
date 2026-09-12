@@ -1,5 +1,4 @@
 
-
 <a href="https://github.com/FzAlpha">
   <img src="signature.svg" alt="Hritabrata Bardhan" />
 </a>
@@ -10,28 +9,32 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 
-* I am a Computer Science engineering student focusing on **Data Structures, Algorithms, and System Architecture**.
-* I prefer working within Linux environments (Arch, ubuntu & Endavour) and enjoy customizing my developer workflow using tools like Hyprland, Lua, and Bash. For me, configuring and maintaining my own system is just a hands-on way to learn how operating systems actually work under the hood.
-* Alongside practicing C++ , Java and Python , I enjoy building practical projects. Recently, I've been exploring multi-agent AI workflows, self-hosting automation platforms, full-stack web development and App development.
-*
+* 🎓 **Computer Science & Engineering Student** with a core focus on **Data Structures & Algorithms, Systems Programming, and Software Architecture**.
+* 🐧 **Linux & Low-Level Enthusiast**: Deeply experienced with Unix-like environments (Arch Linux, Ubuntu, Fedora) and passionate about tailoring developer workflows using **Hyprland, Lua, and Bash** to master operating system internals from the ground up.
+* ⚙️ **Systems & Application Engineering**: Proficient in **C++, Java, and Python** — designing performant systems tools, concurrent socket/network applications, and robust software architectures.
+* 🚀 **Modern Tooling & AI**: Actively exploring **multi-agent AI orchestration**, automated self-hosted platforms, and scalable full-stack development.
 
-### Featured Architecture & Projects
+---
+
+### 🚀 Featured Projects & Architecture
 
 <p align="center">
   <a href="https://github.com/FzAlpha/log-Manager">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=log-Manager&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=log-Manager&theme=tokyonight" alt="log-Manager" />
   </a>
   <a href="https://github.com/FzAlpha/custom-linux-shell">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=custom-linux-shell&theme=tokyonight" alt="custom-linux-shell" />
+  </a>
+  <a href="https://github.com/FzAlpha/chat-program">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=FzAlpha&repo=chat-program&theme=tokyonight" alt="chat-program" />
   </a>
 </p>
 
 ---
 
-### Technical Arsenal
+### 🛠️ Technical Arsenal
 
 <table>
   <tbody>
@@ -70,16 +73,18 @@
   </tbody>
 </table>
 
-### Architecture & Competencies
+### 🎯 Core Competencies
+
 <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-333333?style=flat" alt="Algorithms & Data Structures"> 
 <img src="https://img.shields.io/badge/System_Internals_%26_Diagnostics-333333?style=flat" alt="System Internals & Diagnostics"> 
-<!-- <img src="https://img.shields.io/badge/Tabular_%26_Token_Design-333333?style=flat" alt="Tabular & Token Design"> -->
 <img src="https://img.shields.io/badge/Multi--Agent_AI_Orchestration-333333?style=flat" alt="Multi-Agent AI Orchestration"> 
+<img src="https://img.shields.io/badge/Network_%26_Socket_Programming-333333?style=flat" alt="Network & Socket Programming">
 <img src="https://img.shields.io/badge/Process_%26_Daemon_Management-333333?style=flat" alt="Process & Daemon Management">
 <img src="https://img.shields.io/badge/Automation_%26_Scripting-333333?style=flat" alt="Automation & Scripting">
+
 ---
 
-### Metrics & Activity Dashboard
+### 📊 Metrics & Activity Dashboard
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -107,7 +112,9 @@
 </table>
 <img src="https://github.com/FzAlpha/FzAlpha/raw/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
-### Connectivity
+---
+
+### 📬 Connect & Collaborate
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hritabrata-bardhan-12b498365/" target="_blank">
